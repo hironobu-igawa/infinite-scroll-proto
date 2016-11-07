@@ -18,7 +18,10 @@
   "homepage": "https://github.com/hironobu-igawa/infinite-scroll-proto#readme",
   "devDependencies": {
     "babel-preset-es2015": "^6.18.0",
+    "babel-register": "^6.18.0",
     "bower": "^1.7.9",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-clean": "^0.3.2",
